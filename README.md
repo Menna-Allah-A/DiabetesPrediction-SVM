@@ -1,9 +1,13 @@
 # Diabetes Prediction using SVM
 
 🔍 Built an SVM-based classifier to predict diabetes from clinical features (PIMA dataset).
+
 📊 Key Steps: Data standardization, stratified train-test split, linear SVM training (~77% test accuracy).
+
 🛠 Tech Stack: Python, Scikit-learn, Pandas, NumPy.
+
 📌 Insights: Analyzed feature correlations and handled class imbalance.
+
 🚀 Next Steps: Hyperparameter tuning, deployment via Streamlit
 
 ## Overview
