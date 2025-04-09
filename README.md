@@ -17,8 +17,3 @@ A machine learning model to predict diabetes based on clinical features from the
 - Data standardization (`StandardScaler`)
 - Stratified train-test split
 - SVM model training/evaluation
-
-## How to Run
-```bash
-pip install -r requirements.txt
-jupyter notebook DiabetesPrediction(SVM).ipynb
